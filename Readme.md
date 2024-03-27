@@ -7,10 +7,10 @@ This is based on Computer Vision for player detection and sports classification.
 ## Results
 
 ### Player Detection
-![Result Image](model_box.png)
+![Result Image](Yolo-Player-Detection-and-Sports-Classification\model_box.png)
 
 ### Sports Classification
-![Result Image](model_prediction.png)
+![Result Image](Yolo-Player-Detection-and-Sports-Classification\model_prediction.png)
 
 # Contributions
 
